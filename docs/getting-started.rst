@@ -77,7 +77,7 @@ Running the Example
 -------------------
 The example we will be running is ``list_devices.py``, located in the ``examples/platform`` subdirectory of the GitHub
 repository.  If you cloned the repository, change directory to ``[sdk]/examples/platform``, where ``[sdk]`` is the
-top-level directory of the SDK.  (On Windows, use ``[sdk]\examples\platform``.)  Alternately, you may view the current
+top-level directory of the SDK.  (On Windows, use ``[sdk]\examples\platform``.)  Alternatively, you may view the current
 version of that script in "raw" mode in GitHub, and use your browser's ``Save As`` function to save the script locally.
 In that case, change directory to whichever directory you saved the script to.
 
